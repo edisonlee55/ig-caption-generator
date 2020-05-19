@@ -1,0 +1,9 @@
+{
+  "name": "ig-caption-generator",
+  "version": "0.0.1",
+  "description": "Generate an Instagram caption in a click!",
+  "main": "index.js",
+  "repository": "https://github.com/edisonlee55/ig-caption-generator.git",
+  "author": "Edison Lee <edisonlee@edisonlee55.com>",
+  "license": "MIT"
+}
